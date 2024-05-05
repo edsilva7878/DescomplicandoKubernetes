@@ -1,4 +1,4 @@
-apiVersion: v1beta1
+apiVersion: v1beta1.1
 kind: pods
 metadata:
   labels:
